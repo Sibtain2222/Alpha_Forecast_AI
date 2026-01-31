@@ -1,0 +1,44 @@
+body {
+    background-color: #212529;
+}
+
+.bg-light-dark{
+    background-color: #2B3035;
+
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    
+}
+
+.contanier{
+    flex:1;
+    
+}
+
+.af-footer {
+  background: #0b0f1a; /* deep premium dark */
+  padding: 14px 0;
+  text-align: center;
+}
+
+.af-footer-text {
+  margin: 0;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.65);
+  letter-spacing: 0.3px;
+}
+
+.af-footer-text .highlight {
+  color: #ffffff;
+  font-weight: 600;
+  transition: opacity 0.3s ease;
+}
+
+.af-footer-text .highlight:hover {
+  opacity: 0.85;
+  cursor: default;
+}

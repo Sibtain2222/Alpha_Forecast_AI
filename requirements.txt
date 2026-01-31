@@ -1,0 +1,14 @@
+# Django & API
+django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+
+# Data & Visualization
+pandas
+numpy
+matplotlib
+yfinance
+
+# Machine Learning
+scikit-learn
+tensorflow-cpu==2.19.0

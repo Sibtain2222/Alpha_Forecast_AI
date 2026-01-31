@@ -1,0 +1,6 @@
+AlphaForecastAl_MODEL/
+env/
+db.sqlite3
+__pycache__/
+media/
+.env
