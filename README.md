@@ -42,6 +42,8 @@ Alpha Forecast AI is a full-stack web application that predicts future stock and
 - **Version Control:** Git + GitHub
 
 ---
+# PROJECT DEMO VIDEO :
+https://github.com/user-attachments/assets/c2bb2068-1897-4e06-b85a-df3ba539ef47
 
 ## Getting Started
 
