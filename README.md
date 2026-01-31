@@ -58,3 +58,32 @@ Alpha Forecast AI is a full-stack web application that predicts future stock and
 ```bash
 git clone https://github.com/Sibtain2222/Alpha_Forecast_AI.git
 cd Alpha_Forecast_AI
+
+
+Create a virtual environment
+
+python -m venv env
+source env/bin/activate   # Linux / Mac
+env\Scripts\activate      # Windows
+
+
+Install backend requirements
+
+pip install -r requirements.txt
+
+
+Setup Django backend
+
+python manage.py migrate
+python manage.py createsuperuser  # optional
+python manage.py runserver
+
+
+Install frontend dependencies
+
+cd Frontend-React-Web
+npm install
+npm start
+
+### Author:
+ #### Sibtain
